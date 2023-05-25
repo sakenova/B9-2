@@ -1,0 +1,25 @@
+{
+  "name": "sf_b9-2_ais",
+  "version": "1.0.0",
+  "description": "B9-2 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakenova/B9-2.git"
+  },
+  "keywords": [
+    "Practice",
+    "B9.2",
+    "SkillFactory",
+    "Aisulu"
+  ],
+  "author": "Sakenova Aisulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakenova/B9-2/issues"
+  },
+  "homepage": "https://github.com/sakenova/B9-2#readme"
+}
